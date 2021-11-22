@@ -1,2 +1,3 @@
 # curso_php
-PHP course from PLatzi
+
+PHP course from Platzi
